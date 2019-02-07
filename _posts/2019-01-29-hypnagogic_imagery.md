@@ -37,6 +37,7 @@ title: 入眠時心像について
 
 
 ## 参考文献
+---
 - https://www.jstage.jst.go.jp/article/jjppp/30/1/30_1208si/_pdf/-char/ja
 - http://jssr.jp/kiso/hito/hito09.html
 - https://bsd.neuroinf.jp/wiki/%E5%A4%A2#.E5.85.A5.E7.9C.A0.E6.99.82.E5.BF.83.E5.83.8F
