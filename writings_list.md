@@ -11,13 +11,13 @@ title: 書き物リスト
 
  これらはすでに外部([はてな匿名ダイアリー](https://anond.hatelabo.jp/)など)に公開されているものを含む。また、この記事ははてな匿名ダイアリーに記録した夢日記に基づいているのでここに記された日は夢を見た日ではなく夢を記した日である。
 
-
+- [幼少期](/2019/01/31/dream_child.html)
 - [2016年まで](/2019/01/25/dream_until_2016.html)
 - [2017年](/2019/01/25/dream_2017.html)
 - [2018年](/2019/01/25/dream_2018.html)
 - [2019年](/2019/01/25/dream_2019.html)
 
-<a href="/2019/01/29/dream_bdsm.html" style="color:#272727;"> BDSMな夢 </a>
+<a href="/2019/01/31/dream_bdsm_list.html" style="color:#272727;"> BDSMな夢 </a>
 
 ### おまけ
 - [夢の中でててきた概念](/2019/01/25/concept_in_dream.html)
