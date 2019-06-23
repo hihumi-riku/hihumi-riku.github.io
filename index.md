@@ -7,7 +7,6 @@ title: 翡文　六のページ
 ---
 ### 連絡
 - Email: riku.hihumi@gmail.com
-- Twitter: [@hihumi_riku](https://twitter.com/hihumi_riku)
 
 ### 創作物
 - [書き物](/writings_list.html)
