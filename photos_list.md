@@ -7,3 +7,5 @@ title: 写真
 - [Field](/2019/01/25/field.html)
 - [Circle](/2019/01/25/circle.html)
 - [Water and light](/2019/01/29/water_and_light.html)
+- [Scent of summer](/2019/07/09/scent_of_summer.html)
+- [Summer shrine](/2019/07/09/summer_shrine.html)
