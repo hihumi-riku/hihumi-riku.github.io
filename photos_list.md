@@ -13,3 +13,4 @@ title: 写真
 - [Scent of summer](/2019/07/09/scent_of_summer.html)
 - [Summer shrine](/2019/07/09/summer_shrine.html)
 - [Autumn colors](/2019/10/31/autumn_colors.html)
+- [Murasakishikibu](/2019/11/04/murasakishikibu.html)
