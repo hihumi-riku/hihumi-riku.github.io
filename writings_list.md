@@ -28,11 +28,12 @@ title: 書き物リスト
 - [明晰夢をやり続けて起きたこと(NOT オカルト)](/2019/01/29/lucid_dreaming_2.html)
 - [入眠時心像について](/2019/01/29/hypnagogic_imagery.html)
 
-## 現実の日記
----
-- 中心結節が折れて神経が腐ってとんでもなく痛かった話
 
 ## その他
 ---
-[星空文庫](http://slib.net)から自分の作品をこちらに移したものもある。
-- [水塊](/2019/01/25/water_mass.html)
+
+- [[詩] 水塊](/2019/01/25/water_mass.html) [星空文庫](http://slib.net)から自分の作品をこちらに移したものもある。
+- [[SS] 人生リセット・プログラム](/2019/11/27/life_reset_program.html)
+
+<a href="/2019/11/27/others_list.html" style="color:#272727;"> Others </a>
+
