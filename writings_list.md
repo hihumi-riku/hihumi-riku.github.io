@@ -33,6 +33,7 @@ title: 書き物リスト
 
 - [[詩] 水塊](/2019/01/25/water_mass.html) [星空文庫](http://slib.net)から自分の作品をこちらに移したものもある。
 - [[SS] 人生リセット・プログラム](/2019/11/27/life_reset_program.html)
+- [[感想] 「ハウルの動く城」の泣き所](/2019/12/03/howls_review.html) はてな匿名ダイアリーに投稿したものをこちらにも。
 
 <a href="/2019/11/27/others_list.html" style="color:#272727;"> Others </a>
 
