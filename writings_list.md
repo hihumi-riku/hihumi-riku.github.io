@@ -13,10 +13,11 @@ title: 書き物リスト
 
 
 - [幼少期](/2019/07/10/dream_child.html)
-- [2016年まで](/2019/01/25/dream_until_2016.html)
+- [2014年から2016年まで](/2019/01/25/dream_until_2016.html)
 - [2017年](/2019/01/25/dream_2017.html)
 - [2018年](/2019/01/25/dream_2018.html)
 - [2019年](/2019/01/25/dream_2019.html)
+- [2020年](/2020/01/15/dream_2020.html)
 
 <a href="/2019/01/31/dream_bdsm_list.html" style="color:#272727;"> BDSMな夢 </a>
 
