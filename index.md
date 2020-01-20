@@ -11,7 +11,7 @@ title: 翡文　六のページ
 ### 創作物
 - [書き物](/writings_list.html)
 - [写真](/photos_list.html)
-
+- [絵](/drawing_list.html)
 
 
 
