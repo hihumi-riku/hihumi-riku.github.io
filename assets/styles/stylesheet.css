@@ -1,11 +1,11 @@
 /* https://colourco.de/monochrome-light/5/230c0c */ 
 body {
-  background-color: #272727;
-  color: #CCCCCC;
+  background-color: #f8fbf8 /*#272727*/;
+  color: #594255 /*#CCCCCC*/;
 }
 
 a {
-color:#C14144;
+color: #594255/*#C14144*/;
 }
 
 img{
