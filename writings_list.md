@@ -19,6 +19,8 @@ title: 書き物リスト
 - [2019年](/2019/01/25/dream_2019.html)
 - [2020年](/2020/01/15/dream_2020.html)
 - [2021年](/2021/05/04/dream_2021.html)
+- [2022年](/2022/06/24/dream_2022.html)
+- [2023年](/2023/06/24/dream_2022.html)
 
 <a href="/2019/01/31/dream_bdsm_list.html" style="color:#272727;"> BDSMな夢 </a>
 
