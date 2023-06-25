@@ -22,7 +22,7 @@ title: 書き物リスト
 - [2022年](/2023/06/24/dream_2022.html)
 - [2023年](/2023/06/24/dream_2023.html)
 
-<a href="/2019/01/31/dream_bdsm_list.html" style="color:#5e5e5e;"> BDSMな夢 </a>
+<a href="/2019/01/31/dream_bdsm_list.html" style="color:#F8F9F9;"> BDSMな夢 </a>
 
 #### おまけ
 - [夢の中でててきた概念](/2019/01/25/concept_in_dream.html)
@@ -46,5 +46,5 @@ title: 書き物リスト
 - [[感想] 「ハウルの動く城」の泣き所](/2019/12/03/howls_review.html) 
 - [[感想] インランドエンパイア　感想](2019/12/16/inland_empire.html)
 
-<a href="/2019/11/27/others_list.html" style="color:#272727;"> Others </a>
+<a href="/2019/11/27/others_list.html" style="color:#F8F9F9;"> Others </a>
 
