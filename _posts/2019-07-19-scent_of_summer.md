@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Murasakishikibu
+title: Scent of summer
 ---
 # Scent of summer
 
