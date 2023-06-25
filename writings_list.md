@@ -31,7 +31,7 @@ title: 書き物リスト
 ### 夢日記のおまけ
 ---
 
-- [夢の中でててきた概念](/2019/01/25/concept_in_dream.html)
+- [夢の中にでててきた概念](/2019/01/25/concept_in_dream.html)
 
 <br>
 <br>
