@@ -8,8 +8,6 @@ title: 書き物リスト
 
 夢日記とか、明晰夢とかのいろいろ。
 
-
-
 ### 夢日記
 ---
 
@@ -27,13 +25,17 @@ title: 書き物リスト
 
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/2019/01/31/dream_bdsm_list.html" style="color:#F8F9F9;"> BDSMな夢 </a>
+<br>
+<br>
+
 
 ### 夢日記のおまけ
 ---
 
 - [夢の中でててきた概念](/2019/01/25/concept_in_dream.html)
 
-
+<br>
+<br>
 
 
 ### 明晰夢関係
@@ -44,8 +46,8 @@ title: 書き物リスト
 - [私の明晰夢の入り方](/2019/01/29/lucid_dreaming_1.html)
 - [入眠時心像について](/2019/01/29/hypnagogic_imagery.html)
 
-
-
+<br>
+<br>
 
 ### その他
 ---
