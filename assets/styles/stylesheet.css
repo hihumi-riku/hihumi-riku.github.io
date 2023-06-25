@@ -2,7 +2,20 @@
 body {
   background-color: #F8F9F9;
   color: #155B65;
-  font-family: 'Noto Sans Japanese', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Helvetica Neue", HelveticaNeue, YuGothic, "Yu Gothic Medium", "Yu Gothic", Verdana, Meiryo, sans-serif;
+  font-feature-settings: "palt";
+  letter-spacing: 1px;
+}
+b, strong, .bold{
+	font-family: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI semibold", "Helvetica Neue", HelveticaNeue, YuGothic, "Yu Gothic", "Segoe UI", Verdana, Meiryo, sans-serif;
+  font-feature-settings: "palt";
+letter-spacing: 1px;
+}
+/* IEだけに適応 */
+_:lang(x)::-ms-backdrop, .selector {
+	font-family: "Segoe UI", Meiryo, sans-serif;
+  font-feature-settings: "palt";
+letter-spacing: 1px;
 }
 
 a {
