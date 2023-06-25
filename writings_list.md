@@ -40,5 +40,7 @@ title: 書き物リスト
 ### その他
 ---
 細々と書いてたりたものなど。
+
+
 <a href="/2019/11/27/others_list.html"> Others </a>
 
