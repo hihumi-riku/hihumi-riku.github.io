@@ -40,7 +40,7 @@ title: 書き物リスト
 ### その他
 ---
 細々と書いてたりたものなど。
-
+- [入眠時心像について](/2019/01/29/hypnagogic_imagery.html)
 - [2014/04/01 水塊 (詩)](/2019/01/25/water_mass.html)
 - [2016/12/29 人生リセット・プログラム (SS)](/2019/11/27/life_reset_program.html)
 - [2020/06/17 生活保護者への計算資源支援 (SS)](/2020/06/17/computer_resources_agency.html)
