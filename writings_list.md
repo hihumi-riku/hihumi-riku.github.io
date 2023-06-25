@@ -15,14 +15,14 @@ title: 書き物リスト
 - [幼少期](/2019/07/10/dream_child.html)
 - [2014年から2016年まで](/2019/01/25/dream_until_2016.html)
 - [2017年](/2019/01/25/dream_2017.html)
-- [2018年](/2019/01/25/dream_2018.html)
+- [2018年](/2019/01/25/dream_2018.html)        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/2019/01/31/dream_bdsm_list.html" style="color:#F8F9F9;"> BDSMな夢 </a>
 - [2019年](/2019/01/25/dream_2019.html)
 - [2020年](/2020/01/15/dream_2020.html)
 - [2021年](/2021/05/04/dream_2021.html)
 - [2022年](/2023/06/24/dream_2022.html)
 - [2023年](/2023/06/24/dream_2023.html)
 
-<a href="/2019/01/31/dream_bdsm_list.html" style="color:#F8F9F9;"> BDSMな夢 </a>
+
 
 #### おまけ
 - [夢の中でててきた概念](/2019/01/25/concept_in_dream.html)
