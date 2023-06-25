@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 夢の中で出てきた概念
+title: 夢の中に出てきた概念
 ---
 ## 夢の中で出てきた概念
 <br>
