@@ -43,6 +43,6 @@ title: 書き物リスト
 <br>
 <br>
 <br>
-<a href="/2023/11/03/etude_2023_may.html" style="color#F8F9F9">　</a>
+<a href="/2023/11/03/_etude_2023_may.html" style="color#F8F9F9">　</a>
 
 
