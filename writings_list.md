@@ -38,4 +38,6 @@ title: 書き物リスト
 ---
 - [習作I](/2023/11/03/etude_2023_may.html)
 
+<a href="/2023/11/03/etude_2023_may.html" style="color#F8F9F9">　</a>
+
 
