@@ -8,7 +8,7 @@ title: 翡文　六のページ
 ### 連絡
 - Email: riku.hihumi@gmail.com
 
-### 創作物
+### ページ
 - [書き物](/writings_list.html)
 - [写真](/photos_list.html)
 
