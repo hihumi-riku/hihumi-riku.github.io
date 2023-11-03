@@ -37,7 +37,12 @@ title: 書き物リスト
 ### その他
 ---
 - [習作I](/2023/11/03/etude_2023_may.html)
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <a href="/2023/11/03/etude_2023_may.html" style="color#F8F9F9">　</a>
 
 
