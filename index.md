@@ -1,9 +1,9 @@
 ---
 layout: homepage
-title: 翡文　六のページ
+title: ヒフミ　リクのページ
 ---
 
-# 翡文　六 (ヒフミ　リク)
+# ヒフミ　リク
 ---
 ### 連絡
 - Email: riku.hihumi@gmail.com
