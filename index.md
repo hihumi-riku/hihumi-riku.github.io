@@ -9,7 +9,7 @@ title: ヒフミ　リクのページ
 - Email: riku.hihumi@gmail.com
 
 ### ページ
-- [書き物](/writings_list.html)
+- [テキスト](/writings_list.html)
 - [写真](/photos_list.html)
 
 
