@@ -6,6 +6,12 @@ title: 写真
 二〇二三年十一月の宇都宮
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ![image](/assets/images/utsunomiya_2023_nov_6.png)
 <br>
 <br>
