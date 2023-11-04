@@ -15,3 +15,4 @@ title: 写真
 ## 2023
 
 - [Glass](2023/11/03/glass.html)
+- [二〇二三年十一月の宇都宮](2023/11/03/nov_2023_utsunomiya.html)
