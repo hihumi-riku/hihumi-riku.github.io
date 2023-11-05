@@ -6,6 +6,7 @@ title: ヒフミ　リクのページ
 # ヒフミ　リク
 ---
 ### 連絡
+コメントなどお気軽に。
 - Email: riku.hihumi@gmail.com
 
 ### ページ
