@@ -38,12 +38,4 @@ title: テキスト
 ---
 - [習作I](/2023/11/03/etude_2023_may.html)
 - [一ページ上のこと](/2023/11/03/a_page.html)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<a href="/2023/11/03/_etude_2023_may.html" style="color#F8F9F9">　</a>
-
 
