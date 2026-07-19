@@ -8,6 +8,8 @@ title: ヒフミ　リクのページ
 ### 連絡
 コメントなどお気軽に。
 - Email: riku.hihumi@gmail.com
+チミさん、もし今度気が向いたら連絡してください。もっとお話ししたかった。
+
 
 ### ページ
 - [テキスト](/writings_list.html)
