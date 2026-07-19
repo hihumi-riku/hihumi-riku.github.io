@@ -15,7 +15,7 @@ title: ヒフミ　リクのページ
 
 ---
 ### Other
-<a href="https://tanasinn-world.github.io/"><img src="https://hihuim-riku.github.io/assets/images/door_mini.png" alt="tanashinn-door"></a>
+<a href="https://tanasinn-world.github.io/"><img src="https://hihumi-riku.github.io/assets/images/door_mini.png" style="width: 10%; height: auto;" alt="tanashinn-door"></a>
 
 
 
