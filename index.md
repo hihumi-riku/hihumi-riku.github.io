@@ -13,6 +13,12 @@ title: ヒフミ　リクのページ
 - [テキスト](/writings_list.html)
 - [写真](/photos_list.html)
 
+---
+### Other
+<a href="https://tanasinn-world.github.io/"><img src="https://hihuim-riku.github.io/assets/images/door_mini" alt="tanashinn-door"></a>
+
+
+
 
 
 
