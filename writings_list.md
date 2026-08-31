@@ -31,7 +31,8 @@ title: テキスト
 ### 夢日記のおまけ
 ---
 
-- [夢の中にでててきた概念](/2019/01/25/concept_in_dream.html)
+- [夢の中にでてきた概念](/2019/01/25/concepts_in_dreams.html)
+- [夢の中にでてきたレシピ](/2026/08/31/recipis_in_dreams.html)
 
 <br>
 <br>
