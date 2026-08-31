@@ -32,7 +32,7 @@ title: テキスト
 ---
 
 - [夢の中にでてきた概念](/2019/01/25/concepts_in_dreams.html)
-- [夢の中にでてきたレシピ](/2026/08/31/recipis_in_dreams.html)
+- [夢の中にでてきたレシピ](/2026/08/31/recipes_in_dreams.html)
 
 <br>
 <br>
